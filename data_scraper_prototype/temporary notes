@@ -1,0 +1,17 @@
+npm install selenium-webdriver
+
+safaridriver --enable
+
+Plan: {for each site}
+Scrape base page for links and email address
+    Store each email address
+    Create a Tree for each site of links (add a maximum depth)
+        blacklist certain links (linkedin Etc)
+        Scrape each new link for addresses and links
+            do not keep same link twice
+            Store each email address for each website
+
+
+    Once a good pool of example addresses exist decide what keywords to search for
+
+Store in JSON txt SQL? ... TBD
