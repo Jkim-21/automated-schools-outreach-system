@@ -49,6 +49,7 @@ async function fafo(website){
 //example websites
 
 let websites = [
+    
     "https://www.delasalle.com/",
     "https://www.colby.edu/",
     "https://central.spps.org/",
