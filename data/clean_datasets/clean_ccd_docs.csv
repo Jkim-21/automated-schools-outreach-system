@@ -1,0 +1,66 @@
+Variable Name,Description
+SCHOOL_YEAR,Year corresponding to survey record
+FIPST,American National Standards Institute (ANSI) state code
+STATENAME,State name
+ST,Postal state abbreviation code
+SCH_NAME,School name
+LEA_NAME,Education Agency Name
+STATE_AGENCY_NO,Identifier of the reporting state agency
+UNION,"Supervisory Union (SU) Identification Number. For SU administrative centers and component agencies, this is assigned by the state. If the agency is a county superintendent, this is the ANSI county number. If not reported, the field is null"
+ST_LEAID,State Local Education Number. State's own ID for the education agency.
+LEAID,NCES Agency Identification Number
+ST_SCHID,State school identifier
+NCESSCH,School Identifier (NCES)
+SCHID,Unique school ID
+MSTREET1,Mailing address; street 1
+MSTREET2,Mailing address; street 2
+MSTREET3,Mailing address; street 3
+MCITY,Mailing city
+MSTATE,Mailing state. Two-letter U.S. Postal Service abbreviation of the state where the mailing address is located
+MZIP,Mailing 5 digit ZIP code
+MZIP4,Mailing Secondary ZIP code
+LSTREET1,Location address; street 1
+LSTREET2,Location address; street 2
+LSTREET3,Location address; street 3
+LCITY,Location city
+LSTATE,Location state. Two-letter U.S. Postal Service abbreviation
+LZIP,Location 5 digit ZIP code
+LZIP4,Location Secondary ZIP code
+PHONE,Telephone number
+WEBSITE,The Uniform Resource Locator (URL) for the unique address of a Web Page of an education entity.
+SY_STATUS,Start of year Status (code)
+SY_STATUS_TEXT,Start of year Status (description)
+UPDATED_STATUS,Updated status (code)
+UPDATED_STATUS_TEXT,Updated status (description)
+EFFECTIVE_DATE,Effective date of updated status
+SCH_TYPE_TEXT,School type (description)
+SCH_TYPE,School type (code)
+RECON_STATUS,Reconstituted flag
+OUT_OF_STATE_FLAG,Mailing or Location address is in another state
+CHARTER_TEXT,Whether a Charter school
+CHARTAUTH1,Charter authorizer state ID (1). The identifier assigned to the primary public charter school authorizing agency by the SEA.
+CHARTAUTHN1,Charter authorizer name (1)
+CHARTAUTH2,Charter authorizer state ID (2). The identifier assigned to the primary public charter school authorizing agency by the SEA.
+CHARTAUTHN2,Charter authorizer name (2)
+NOGRADES,No grades offered
+G_PK_OFFERED,PK Grade Offered
+G_KG_OFFERED,KG Grade Offered
+G_1_OFFERED,Grade 01 Offered
+G_2_OFFERED,Grade 02 Offered
+G_3_OFFERED,Grade 03 Offered
+G_4_OFFERED,Grade 04 Offered
+G_5_OFFERED,Grade 05 Offered
+G_6_OFFERED,Grade 06 Offered
+G_7_OFFERED,Grade 07 Offered
+G_8_OFFERED,Grade 08 Offered
+G_9_OFFERED,Grade 09 Offered
+G_10_OFFERED,Grade 10 Offered
+G_11_OFFERED,Grade 11 Offered
+G_12_OFFERED,Grade 12 Offered
+G_13_OFFERED,Grade 13 Offered
+G_UG_OFFERED,Ungraded Offered
+G_AE_OFFERED,Adult education offered
+GSLO,Grades Offered - Lowest
+GSHI,Grades Offered - Highest
+LEVEL,LEA or school level
+IGOFFERED,Whether any grades-offered field was adjusted
