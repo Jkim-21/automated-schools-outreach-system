@@ -3,15 +3,19 @@ from scrapy_splash import SplashRequest
 import json
 import os
 import sys
-import search_engine_preprocess
+import importlib
+
+sys.path.insert(0, os.path.abspath('../search_engine_preprocess'))
+import scraping_prep
+importlib.reload(scraping_prep)
 
 class SearchEngineSpider(scrapy.Spider):
-    name = "search engine spider"
+    name = "search_engine_spider"
     allowed_domains = ["startpage.com"]
     
     def __init__(self, *args, **kwargs):
         super().__init__()
-        self.search_queries = search_engine_preprocess.csv_to_array_of_strings_sample("../../data/no_website_schools/search_engine_prep.csv", 3)
+        self.search_queries = scraping_prep.csv_to_array_of_strings_sample("../../data/no_website_schools/search_engine_prep.csv", 3)
     
     def start_requests(self):
         for query in self.search_queries:
@@ -42,4 +46,3 @@ class SearchEngineSpider(scrapy.Spider):
             yield {
                 'link': link
             }
-            
