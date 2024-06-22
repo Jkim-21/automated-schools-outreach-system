@@ -5,12 +5,6 @@ from scrapy.selector import Selector
 from urllib.parse import urlparse
 import logging
 
-#imported things:
-#re: regex or regular expressions used to find strings
-#
-#
-#
-
 class school_scraper(scrapy.Spider):
     name = 'school_scraper'
     
