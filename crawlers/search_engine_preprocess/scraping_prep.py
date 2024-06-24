@@ -7,7 +7,7 @@ def csv_to_array_of_strings(csv_file_path):
     try:
         for index, row in df.iterrows():
             concatenated_row = f"{str(row.iloc[0])} website "
-            rest_of_row = ' '.join([str(item) for item in row.iloc[1:]])  
+            rest_of_row = ' '.join([str(item) for item in row.iloc[1:]])
             concatenated_row += rest_of_row
             school_array.append(concatenated_row)
         return school_array
@@ -23,5 +23,3 @@ def csv_to_array_of_strings_sample(csv_file_path, sample_size):
         raise ValueError()
     
     return random.sample(full_school_array, sample_size)
-    
-    

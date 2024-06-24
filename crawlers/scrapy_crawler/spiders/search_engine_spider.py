@@ -15,14 +15,14 @@ class SearchEngineSpider(scrapy.Spider):
     
     def __init__(self, *args, **kwargs):
         super().__init__()
-        self.search_queries = scraping_prep.csv_to_array_of_strings_sample("../../data/no_website_schools/search_engine_prep.csv", 3)
+        self.search_queries = scraping_prep.csv_to_array_of_strings_sample("../../data/website_no_website_schools/search_engine_prep.csv", 3)
     
     def start_requests(self):
         for query in self.search_queries:
             url = f'https://www.startpage.com/do/search?cmd=process_search&query={query}'
-            yield SplashRequest(url,
-                                args = {'wait': 1})
-            
+            yield scrapy.Request(url,
+                                 callback=self.parse,
+                                 dont_filter=True)
 
     def parse(self, response):
         directory = './crawl_results'
