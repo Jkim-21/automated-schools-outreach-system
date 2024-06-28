@@ -1,0 +1,20 @@
+Date: Fri, 28 Jun 2024 04:28:27 GMT
+Content-Type: text/html; charset=utf-8
+Cf-Ray: 89aaee02bab94cbc-MSP
+Cf-Cache-Status: REVALIDATED
+Cache-Control: public, s-maxage=300, max-age=30, stale-if-error=21600, stale-while-revalidate=15
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+Content-Security-Policy: frame-ancestors 'self';
+Referrer-Policy: strict-origin-when-cross-origin
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: 8550e0e5-a872-4ef1-8736-6fe4afbe8cd4
+X-Runtime: 1.216634
+X-Xss-Protection: 1; mode=block
+Set-Cookie: __cfruid=e7c0604de934798d0f1918f61113137b0b6301d5-1719548907; path=/; domain=.www.isd623.org; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

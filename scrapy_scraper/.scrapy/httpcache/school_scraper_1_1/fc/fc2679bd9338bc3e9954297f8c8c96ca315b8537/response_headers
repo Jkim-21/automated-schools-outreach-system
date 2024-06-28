@@ -1,0 +1,13 @@
+Content-Length: 214
+Content-Type: application/xml
+Date: Fri, 28 Jun 2024 04:11:33 GMT
+X-Amzn-Requestid: f51d8831-4878-4da2-a7a3-173f896d6b53
+Content-Encoding: gzip
+X-Amz-Apigw-Id: aD2ueG54IAMEtQg=
+Cache-Control: max-age=86400
+Timestamp: Fri, 28 Jun 2024 04:11:33 GMT
+X-Amzn-Trace-Id: Root=1-667e37f5-318adbef505fe0de1062b029
+X-Cache: Miss from cloudfront
+Via: 1.1 9a8ec64e453c10a23c6883b97866db3e.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MSP50-C1
+X-Amz-Cf-Id: crpAfL7g89yeAM37lY178jim8n0ex7nUpWe0IlawzhQGUMomJaoAjA==

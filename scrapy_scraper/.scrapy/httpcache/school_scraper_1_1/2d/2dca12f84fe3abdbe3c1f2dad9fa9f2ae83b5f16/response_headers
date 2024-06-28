@@ -1,0 +1,15 @@
+Date: Fri, 28 Jun 2024 04:11:22 GMT
+Content-Type: text/html; charset=utf-8
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=0, must-revalidate
+Link: <https://fonts.googleapis.com>; rel="preconnect"
+Referrer-Policy: strict-origin-when-cross-origin
+X-Content-Type-Options: nosniff
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=Mba%2BRaJPxf1J3rl48AkYj%2BA%2FHDp%2Fk8n2cSCTYzElNp%2Fx%2BwJJGC%2BZvqN0bb20Jjq%2FhYp%2BVY2gewws3H8DprpZtGDdlAhFfvICbllXgYBIkFeEjdBTzHjkrWj4idQoucVV"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 89aad519a92226d3-MSP
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

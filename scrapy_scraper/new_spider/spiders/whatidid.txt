@@ -1,0 +1,17 @@
+some emails come up hundreds of times, should i still keep
+
+
+batch plan:
+
+do it by state and then have a JSON for each state by name, easy to do
+
+if 100k schools
+>
+~2k school / state (on average)
+    (give states with more schools to my faster computer)
+
+with throttle > 
+
+shit is wicked fast
+
+Turbos

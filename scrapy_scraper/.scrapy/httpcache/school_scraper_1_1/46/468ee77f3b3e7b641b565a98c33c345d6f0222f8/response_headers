@@ -1,0 +1,19 @@
+Date: Fri, 28 Jun 2024 04:28:37 GMT
+Content-Type: text/html; charset=utf-8
+Location: https://accounts.google.com/o/oauth2/v2/auth/oauthchooseaccount?scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&access_type=offline&include_granted_scopes=true&state=test&redirect_uri=https%3A%2F%2Fisd623.studentsupporttime.com%2FGoogleOAuth%2FCallback&response_type=code&client_id=383165947825-rek1m9tdgtrg0hlfc0pchlq8iktgvo3j.apps.googleusercontent.com&flowName=GeneralOAuthFlow
+Cf-Ray: 89aaee5c8d89a1eb-MSP
+Cf-Cache-Status: EXPIRED
+Cache-Control: public, s-maxage=3600, max-age=300, stale-if-error=21600, stale-while-revalidate=15
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+Content-Security-Policy: frame-ancestors 'self';
+Referrer-Policy: strict-origin-when-cross-origin
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: d472d06f-73fc-4834-a138-c2a7e0290ecd
+X-Runtime: 0.293303
+X-Xss-Protection: 1; mode=block
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400

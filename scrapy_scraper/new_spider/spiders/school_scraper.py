@@ -1,9 +1,9 @@
 import scrapy
 import re
-import datetime
-from scrapy.selector import Selector
 from urllib.parse import urlparse
 import logging
+import datetime
+from scrapy.selector import Selector
 
 class school_scraper(scrapy.Spider):
     name = 'school_scraper'
@@ -11,9 +11,9 @@ class school_scraper(scrapy.Spider):
     # SETUP:
     # put urls that you want to scrape in links.txt
     # clean output.JSON, does not need to be empty but should be emptied
-    #call with: scrapy crawl school_scraper -o output.json -a max_depth=1 -a show_links=True (True or true both work)
-
+    # call with: scrapy crawl school_scraper -o output.json -a max_depth=1 -a show_links=True (True or true both work)
     #
+
     def __init__(self, max_depth=2, show_links=False, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.show_links = show_links in ['True','true',True]
@@ -34,6 +34,7 @@ class school_scraper(scrapy.Spider):
             yield scrapy.Request(url, callback=self.parse, meta={'depth': 0, 'base_url': url}) 
 
     def parse(self, response):
+        
         current_depth = response.meta['depth']
         if current_depth > self.max_depth:
             return
@@ -60,8 +61,8 @@ class school_scraper(scrapy.Spider):
         
         for email in set(emails):
             yield {
-                'link': 'school',
-                'email': email
+                'link': response.url,
+                'email': email,
             }
         
 

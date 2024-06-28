@@ -1,0 +1,4 @@
+# robots.txt for https://app.digistorm.com/
+
+User-agent: *
+Disallow: /

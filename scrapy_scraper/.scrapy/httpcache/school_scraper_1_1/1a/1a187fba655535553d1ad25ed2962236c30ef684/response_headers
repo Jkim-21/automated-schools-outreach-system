@@ -1,0 +1,19 @@
+Content-Type: application/pdf
+Last-Modified: Tue, 25 Jun 2024 17:02:48 GMT
+Server: Microsoft-IIS/10.0
+Strict-Transport-Security: max-age=31536000; includeSubDomains;
+X-Xss-Protection: 1; mode=block
+X-Powered-By: ASP.NET
+Content-Security-Policy: frame-ancestors 'self' https://*.ally.ac;
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Date: Fri, 28 Jun 2024 04:06:41 GMT
+Cache-Control: private
+Etag: W/"c892718121c7da1:0"
+Vary: Accept-Encoding
+X-Cache: Hit from cloudfront
+Via: 1.1 24f41ad6cec46a6e94a3e850d746e294.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MSP50-P2
+X-Amz-Cf-Id: C6KJwV7VDpyxMGa8nd75Q2XmwLbFNk1tIy9CatzicaA0ZP14ou10lg==
+Age: 289

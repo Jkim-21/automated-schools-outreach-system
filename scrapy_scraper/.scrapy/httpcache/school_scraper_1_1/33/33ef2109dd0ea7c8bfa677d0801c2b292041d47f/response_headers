@@ -1,0 +1,19 @@
+Date: Fri, 28 Jun 2024 04:28:41 GMT
+Content-Type: text/html; charset=utf-8
+Cf-Ray: 89aaee61284ea1f5-MSP
+Cf-Cache-Status: REVALIDATED
+Cache-Control: public, s-maxage=300, max-age=30, stale-if-error=21600, stale-while-revalidate=15
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+Content-Security-Policy: frame-ancestors 'self';
+Referrer-Policy: strict-origin-when-cross-origin
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: 4ac05185-b52b-4a48-9095-b0654add51f2
+X-Runtime: 2.751177
+X-Xss-Protection: 1; mode=block
+Server: cloudflare
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

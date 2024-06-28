@@ -1,0 +1,19 @@
+Date: Fri, 28 Jun 2024 04:28:31 GMT
+Content-Type: text/html; charset=utf-8
+Location: https://www.isd623.org/services/student-services
+Cf-Ray: 89aaee39785bacca-MSP
+Cf-Cache-Status: DYNAMIC
+Cache-Control: no-cache
+Strict-Transport-Security: max-age=31536000
+Content-Security-Policy: frame-ancestors 'self';
+Referrer-Policy: strict-origin-when-cross-origin
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: f5a4910e-0c2b-4014-a1ba-29e8eda4b8ec
+X-Runtime: 0.042842
+X-Xss-Protection: 1; mode=block
+Vary: Accept-Encoding
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400

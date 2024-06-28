@@ -1,0 +1,20 @@
+Content-Length: 466779
+Content-Type: text/html; charset=utf-8
+Date: Fri, 28 Jun 2024 04:11:55 GMT
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Expires: -1
+Server: Microsoft-IIS/10.0
+Strict-Transport-Security: max-age=31536000; includeSubDomains;
+X-Xss-Protection: 1; mode=block
+X-Aspnet-Version: 4.0.30319
+Set-Cookie: RedirectTo=http%3A%2F%2Fwww.marshallk12.org%2Fsite%2Fdefault.aspx%3FPageID%3D1403; path=/; secure
+Set-Cookie: CancelRedirectTo=; expires=Thu, 27-Jun-2024 20:11:55 GMT; path=/; secure
+X-Powered-By: ASP.NET
+Content-Security-Policy: frame-ancestors 'self' https://*.ally.ac;
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Cache: Miss from cloudfront
+Via: 1.1 735ddcca68d7fc25d4f56c0eafd34e64.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MSP50-P2
+X-Amz-Cf-Id: D8hlJ3E1RXA-8pqJwLGFIT8-8_9swKq31Oyc4YeU4Lga7k7G1Z5zxg==

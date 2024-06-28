@@ -1,0 +1,12 @@
+Content-Length: 0
+Date: Fri, 28 Jun 2024 04:12:17 GMT
+Location: /reverse-list
+Access-Control-Allow-Origin: *
+Referrer-Policy: strict-origin-when-cross-origin
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=4eWrgdIeONGFofIdMnsJdwnmJKdFizMWPRDfh1ISQTJVldOz6oU3woGfTlpittdlh6msZ2rvWwO76kX5kw60GYUY6OROzDUtSJRuuazzPTKIh7vJ8hOAchT%2BjNLF48pa"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 89aad6730a6eace4-MSP
+Alt-Svc: h3=":443"; ma=86400

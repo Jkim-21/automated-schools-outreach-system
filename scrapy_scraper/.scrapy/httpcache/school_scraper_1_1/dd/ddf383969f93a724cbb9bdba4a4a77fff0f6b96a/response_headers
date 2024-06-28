@@ -1,0 +1,14 @@
+Content-Length: 22233215
+Content-Type: application/pdf
+Etag: "c737502faea304af29928c74875cf4cf"
+Last-Modified: Fri, 22 Mar 2024 18:49:21 GMT
+Date: Fri, 28 Jun 2024 04:11:29 GMT
+Cache-Control: public, no-transform, immutable, max-age=31536000
+Access-Control-Expose-Headers: Content-Length,Content-Disposition,Content-Range,Etag,Server-Timing,Vary,X-Cld-Error,X-Content-Type-Options
+Access-Control-Allow-Origin: *
+Accept-Ranges: bytes
+Timing-Allow-Origin: *
+Server: Cloudinary
+Strict-Transport-Security: max-age=604800
+X-Content-Type-Options: nosniff
+Server-Timing: cld-akam;dur=3;start=2024-06-28T04:11:29.530Z;desc=hit,rtt;dur=57,content-info;desc="width=792,height=612,bytes=22233215,o=1,ef=(17)"

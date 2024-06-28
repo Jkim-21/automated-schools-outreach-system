@@ -1,0 +1,19 @@
+Content-Length: 1181911
+Content-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+Last-Modified: Mon, 25 Sep 2023 15:48:09 GMT
+Accept-Ranges: bytes
+Server: Microsoft-IIS/10.0
+Strict-Transport-Security: max-age=31536000; includeSubDomains;
+X-Xss-Protection: 1; mode=block
+X-Powered-By: ASP.NET
+Content-Security-Policy: frame-ancestors 'self' https://*.ally.ac;
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Date: Fri, 28 Jun 2024 04:12:14 GMT
+Cache-Control: private
+Etag: "80debdaec7efd91:0"
+Vary: Accept-Encoding
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 48a0ac8b67842a09a9b585c294dc3108.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MSP50-P2
+X-Amz-Cf-Id: aYDsOunp269bD0Me6e_4Qy_wCEuz83CekZ9SlJ80tlTR9pIcvHbx6g==
