@@ -16,9 +16,10 @@ class school_scraper_1_1(scrapy.Spider):
     # call with: scrapy crawl school_scraper_1_1 -o output.json -a max_depth=1 -a show_links=True (True or true both work)
     #
 
-    def __init__(self, max_depth=2, show_links=False, *args, **kwargs):
+    def __init__(self, max_depth=2, show_links=False, cancel_copies = False, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.show_links = show_links in ['True','true',True]
+        self.cancel_copies = cancel_copies in ['True','true',True]
         self.start_urls = self.read_urls()
         self.visited_urls = set()
         self.max_depth = int(max_depth)
@@ -86,6 +87,7 @@ class school_scraper_1_1(scrapy.Spider):
                         'type': 'link',
                         'url': absolute_url
                     }
+
                 if (word not in absolute_url for word in self.blacklist_keywords):
                     #blacklist
                     yield scrapy.Request(absolute_url, callback=self.parse, meta={'depth': current_depth + 1, 'base_url': response.meta['base_url']}) #add meta for other
