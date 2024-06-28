@@ -1,9 +1,0 @@
-Content-Length: 203
-Cache-Control: private
-Content-Type: text/plain; charset=utf-8
-Content-Encoding: gzip
-Vary: Accept-Encoding
-X-Xss-Protection: 1; mode=block
-X-Content-Type-Options: nosniff
-Date: Fri, 28 Jun 2024 04:29:44 GMT
-Strict-Transport-Security: max-age=31536000; includeSubDomains
